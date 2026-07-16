@@ -81,7 +81,7 @@ I build scalable full-stack web applications, developer tools, and competitive p
 
 - **LeetCode:** Knight Badge, rating **2053**
 - **CodeChef:** 3★, rating **1677**
-- **Codeforces:** Pupil, rating **1300**
+- **Codeforces:** Specialist, rating **1500**
 - **Solved:** **1500+** problems across LeetCode, CodeChef, Codeforces, and GeeksforGeeks
 <h2>GitHub At A Glance</h2>
 
