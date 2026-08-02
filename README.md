@@ -5,6 +5,7 @@ Full Stack Developer | Machine Learning Enthusiast | Competitive Programmer | B.
 </h3>
 <!-- This is a comment -->
 <!-- This is a comment -->
+<!-- This is a comment -->
 <p align="center">
 I build scalable full-stack web applications, developer tools, and competitive programming platforms using modern web technologies. I enjoy solving challenging algorithmic problems and developing efficient backend systems. My interests include full-stack development, backend engineering, recommendation systems, artificial intelligence, and system design.
 </p>
